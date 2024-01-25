@@ -1,5 +1,5 @@
 - 👋 Hola, soy @TheLuuiis
-- 👀 Me interesa mucho la programación, en especial el Desarollo Web.
+- 👀 Me interesa mucho la programación, en especial el Desarrollo Web.
 - 🌱 Actualmente estoy aprendiendo JavaScript Vanilla.
 - 💞️ Busco colaborar con empresas nacionales e internacionales.
 - 📫 Cómo contactarme -> luisdavidgilcabarcas47@gmail.com
