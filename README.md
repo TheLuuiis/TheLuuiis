@@ -18,7 +18,6 @@
 <a href="https://www.linkedin.com/in/luis-david-gil-cabarcas-1aa83b2aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Luis David Gil" height="30" width="40" /></a>
 <a href="https://discord.gg/1037440882611335329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Luis David Gil" height="30" width="40" /></a>
 <a href="https://twitter.com/gil_cabarcas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gil_cabarcas" height="30" width="40" /></a>
-<a href="https://www.instagram.com/gilcabarcas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ldsds" height="30" width="40" /></a>
 </p>
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
