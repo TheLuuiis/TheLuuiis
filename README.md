@@ -2,7 +2,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
-- 👋 Hola, soy @TheLuuiis
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+- 👋 Hola, soy @TheLuuiis 
   
 - 👀 Me interesa mucho la programación, en especial el Desarrollo Web.
   
@@ -13,7 +14,7 @@
 - 📫 Cómo contactarme -> luisdavidgilcabarcas47@gmail.com
 
 <!-- CONTACTO -->
-<h2 align="left">Conectate conmigo</h2>
+<h2 align="left">🌐 Conectate conmigo</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/luis-david-gil-cabarcas-1aa83b2aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Luis David Gil" height="30" width="40" /></a>
 <a href="https://discord.gg/1037440882611335329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Luis David Gil" height="30" width="40" /></a>
