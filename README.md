@@ -2,7 +2,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
-- Hola, soy @Luis David Gil  
+- <h2>Hola, soy @Luis David</h2>
+  
 - 👀 Me interesa mucho la programación, en especial el Desarrollo Web.
   
 - 🌱 Actualmente estoy aprendiendo React.
