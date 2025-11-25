@@ -9,6 +9,7 @@
 - <h4>💞️ Busco colaborar con empresas nacionales e internacionales.</h4>
   
 - <h4>📫 Cómo contactarme -> luisdavidgilcabarcas47@gmail.com</h4>
+- <h4>Hola, soy <a href="https://github.com/Kathryn-Jie">Luis David<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h4>
 
 <!-- CONTACTO -->
 ## 🌐 Conectate conmigo
