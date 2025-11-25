@@ -3,7 +3,7 @@
 
 - <h4>👀 Me interesa mucho la programación, en especial el Desarrollo Web.</h4>
   
-- <h4>💞️ Busco colaborar con empresas nacionales e internacionales.</h4>
+- <h4>💞️ Disponible para colaborar con empresas nacionales e internacionales.</h4>
   
 - <h4>📫 Cómo contactarme -> <a href="luisdavidgilcabarcas47@gmail.com<">luisdavidgilcabarcas47@gmail.com<a></h4>
 <!-- CONTACTO -->
