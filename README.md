@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
 
-- <h3>👀 Me interesa mucho la programación, en especial el Desarrollo Web.</h3>
+- <h4>👀 Me interesa mucho la programación, en especial el Desarrollo Web.</h4>
   
   
-- <h3>💞️ Busco colaborar con empresas nacionales e internacionales.</h3>
+- <h4>💞️ Busco colaborar con empresas nacionales e internacionales.</h4>
   
-- <h3>📫 Cómo contactarme -> luisdavidgilcabarcas47@gmail.com</h3>h3>
+- <h4>📫 Cómo contactarme -> luisdavidgilcabarcas47@gmail.com</h4>
 
 <!-- CONTACTO -->
 ## 🌐 Conectate conmigo
