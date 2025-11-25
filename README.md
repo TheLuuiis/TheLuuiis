@@ -12,12 +12,11 @@
 - 📫 Cómo contactarme -> luisdavidgilcabarcas47@gmail.com
 
 <!-- CONTACTO -->
-<h2 align="left" font-weight="bold">🌐 Conectate conmigo</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/luis-david-gil-cabarcas-1aa83b2aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Luis David Gil" height="30" width="40" /></a>
-<a href="https://discord.gg/1037440882611335329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Luis David Gil" height="30" width="40" /></a>
-<a href="https://twitter.com/gil_cabarcas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gil_cabarcas" height="30" width="40" /></a>
-</p>
+<br>
+
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+
+<br>
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h2 align="left" font-weight="bold">Lenguajes y herramientas</h2>
