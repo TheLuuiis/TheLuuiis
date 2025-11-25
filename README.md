@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Luis David</h1>
-<h3 align="center">Me llamo Luis David y soy desarrollador de Software con experiencia en desarrollo web. Me encanta enfrentar nuevos retos, aprender continuamente y aportar soluciones eficientes a problemas reales. Siempre busco mejorar a la calidad del software y facilitar la vida de los usuarios con tecnología.</h3>
+<h3 align="start">Me llamo Luis David y soy desarrollador de Software con experiencia en desarrollo web. Me encanta enfrentar nuevos retos, aprender continuamente y aportar soluciones eficientes a problemas reales. Siempre busco mejorar a la calidad del software y facilitar la vida de los usuarios con tecnología.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
 
