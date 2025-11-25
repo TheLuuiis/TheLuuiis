@@ -1,20 +1,15 @@
 <h1 align="center">Hola, soy <a href="https://github.com/Kathryn-Jie">Luis David<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 <h3 align="start">Soy desarrollador de Software con experiencia en desarrollo web. Me encanta enfrentar nuevos retos, aprender continuamente y aportar soluciones eficientes a problemas reales. Siempre busco mejorar a la calidad del software y facilitar la vida de los usuarios con tecnología.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
-
 - <h4>👀 Me interesa mucho la programación, en especial el Desarrollo Web.</h4>
-  
   
 - <h4>💞️ Busco colaborar con empresas nacionales e internacionales.</h4>
   
 - <h4>📫 Cómo contactarme -> <a href="luisdavidgilcabarcas47@gmail.com<">luisdavidgilcabarcas47@gmail.com<a></h4>
-
 <!-- CONTACTO -->
 ## 🌐 Conectate conmigo
 
 [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
-
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h2 align="left" font-weight="bold">Lenguajes y herramientas</h2>
