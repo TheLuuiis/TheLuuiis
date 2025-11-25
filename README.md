@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
 
-- <h5>👀 Me interesa mucho la programación, en especial el Desarrollo Web.</h5>
+- <h3>👀 Me interesa mucho la programación, en especial el Desarrollo Web.</h3>
   
   
 - 💞️ Busco colaborar con empresas nacionales e internacionales.
