@@ -5,7 +5,7 @@
   
 - <h4>💞️ Disponible para colaborar con empresas nacionales e internacionales.</h4>
   
-- <h4>📫 Cómo contactarme -> <a href="luisdavidgilcabarcas47@gmail.com<">luisdavidgilcabarcas47@gmail.com<a></h4>
+- <h4>📫 Contáctame -> <a href="luisdavidgilcabarcas47@gmail.com<">luisdavidgilcabarcas47@gmail.com<a></h4>
 <!-- CONTACTO -->
 ## 🌐 Conectate conmigo
 
