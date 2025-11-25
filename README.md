@@ -1,9 +1,8 @@
-<!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="gilcabarcas" /></a> </p>
+<h1 align="center">Hi 👋, I'm Luis David</h1>
+<h3 align="center">I'm Akhil G Krishnan, a 22-year old technical enthusiast who does web development, security research and ML/DL development. Passionate to contribute open-source projects and make cool products.</h3>
 
-<!-- BREVE DESCRIPCION -->
-<h2 align="left" font-weight="bold">Hola, soy @Luis David Gil</h2> 
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
+
 - 👀 Me interesa mucho la programación, en especial el Desarrollo Web.
   
 - 🌱 Actualmente estoy aprendiendo React.
