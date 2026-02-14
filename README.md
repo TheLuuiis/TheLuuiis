@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy <a href="https://github.com/Kathryn-Jie">Luis David<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
-<h3 align="start">Soy desarrollador Full Stack. Me encanta enfrentar nuevos retos, aprender continuamente y aportar soluciones eficientes a problemas reales. Siempre busco mejorar a la calidad del software y facilitar la vida de los usuarios con tecnología.</h3>
+<h3 align="start">Soy desarrollador Full-Stack. Me encanta enfrentar nuevos retos, aprender continuamente y aportar soluciones eficientes a problemas reales. Siempre busco mejorar a la calidad del software y facilitar la vida de los usuarios con tecnología.</h3>
 
 - <h4>👀 Me interesa mucho la programación, en especial el Desarrollo Web.</h4>
   
