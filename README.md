@@ -11,7 +11,7 @@
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h2 align="left" font-weight="bold">Lenguajes y herramientas</h2>
-<img width="490" height="100" alt="68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a732c657870726573732c6d6f6e67" src="https://github.com/user-attachments/assets/44eaf91a-e149-4b52-ac2e-1b7976879ade" />
+<img width="490" height="50" alt="68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a732c657870726573732c6d6f6e67" src="https://github.com/user-attachments/assets/44eaf91a-e149-4b52-ac2e-1b7976879ade" />
 
 <!-- COMMITS -->
 <h2 align="left" font-weight="bold">Commits</h2>
